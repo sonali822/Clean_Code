@@ -1,0 +1,13 @@
+Key-Points :  
+-------------
+1. A class name should not be a verb !
+---------------------------------------
+2. Choosing good names for a function can go a long way toward explaining the intent of
+the function and the order and intent of the arguments. In the case of a monad, the
+function and argument should form a very nice verb/noun pair. For example,
+write(name) is very evocative. Whatever this “name” thing is, it is being “written.” An
+even better name might be writeField(name), which tells us that the “name” thing is a
+“field.”
+------------------------------------------------------------------------------------------
+
+3.
